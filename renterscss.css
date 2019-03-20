@@ -20,7 +20,7 @@ h1{
 	margin-left: 5.5vw;
 	margin-right: 5.5vw;
 	margin-top: 4.5vw;
-	margin-bottom: 0vw;
+	margin-block-end:0px;
 }
 
 .cityleft{
